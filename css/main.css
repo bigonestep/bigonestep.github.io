@@ -1193,6 +1193,9 @@ pre .javascript .function {
   margin: 0 auto;
 }
 @media (max-width: 767px) {
+  .post-letters-count {
+    disply: none;
+  }
   .posts-collapse {
     margin: 0 20px;
   }
@@ -1677,7 +1680,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #09786c;
+  background: #58edf2;
 }
 .links-of-blogroll {
   font-size: 13px;
